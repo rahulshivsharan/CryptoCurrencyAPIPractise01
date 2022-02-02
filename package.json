@@ -1,0 +1,17 @@
+{
+  "name": "cryptorestpractise01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cryptoAPI.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "RahulS",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.0",
+    "promise": "^7.0.4"
+  }
+}
